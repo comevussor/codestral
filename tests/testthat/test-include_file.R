@@ -1,3 +1,5 @@
+library(codestral)
+
 test_that("include_file works when files are found", {
   # Create temporary files for testing
   temp_file1 <- "testinclude001.txt"

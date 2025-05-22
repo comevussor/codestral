@@ -1,3 +1,5 @@
+library(codestral)
+
 test_that("compile_dialog works with valid input", {
   prompt <- c("c: Hello",
               "m: Hi there",
